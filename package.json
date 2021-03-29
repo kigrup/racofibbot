@@ -1,0 +1,13 @@
+{
+  "name": "racofibbot",
+  "version": "1.0.0",
+  "description": "Node.js Telegram bot on Docker",
+  "author": "Raul Plesa <raul.plesa@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
